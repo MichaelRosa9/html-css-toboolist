@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #F5F7F8
+}
+
+header {
+  height: 40px;
+  margin-top: 20px;
+  margin-left: 20px;
+  background-color: #fff;
+}
+header img {
+  height: 70px;
+  vertical-align: middle;
+
+}
+h1 {
+  display: inline;
+  font-size: 50px;
+  height: 100%;
+}
+
+main {
+  margin-top: 40px;
+}
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+.button-bar {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  padding-left: 60px;
+  background-color: #fff;
+}
+
+.button-bar button {
+  padding: 5px 10px;
+  border-radius: 10%;
+}
+
+.add-task {
+  color: #fff;
+  background-color: #3EA4EF;
+}
+
+.add-section {
+  color: #BFC5CB;
+  background-color: #fff;
+}
