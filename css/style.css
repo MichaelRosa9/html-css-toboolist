@@ -28,7 +28,7 @@ h1 {
 }
 
 main {
-  margin-top: 40px;
+  margin: 40px 0;
 }
 .container {
   width: 80%;
@@ -66,17 +66,17 @@ main {
   margin-top: 20px;
 }
 .task-objective {
-  margin: 20px 0;
+  margin: 18px 0;
 }
 
 .mark {
+  display: inline-block;
   margin-right: 5px;
   padding: 3px;
   font-size: 10px;
   border-style: solid;
-  border-width: 2px;
+  border-width: 1px;
   border-radius: 50%;
-  text-align: center;
 }
 .completed {
   color: #59B89F;
